@@ -1,2 +1,4 @@
 # FNF-Impostor-v4-Fanmade-Mod
-This is a Fanmade work by Impostor Mod!
+これはImpostorModによるファンメイドの作品です！
+# Download
+You can do this from the tag
