@@ -1,5 +1,5 @@
 # FNF-Impostor-v4-Fanmade-Mod
-This is a fan-made creation by ImpostorMod!
+This is a fan-made piece of ImpostorMod!
 ## Description
 * This mod is compatible with PsychEngine v0.5.2h.
 * Just install this mod into your PsychEngine mods file and play!
